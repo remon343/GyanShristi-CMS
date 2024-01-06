@@ -20,7 +20,7 @@ git commit -m "your-name yyyy/mm/dd"
 
 # Push to this branch
 ```
-git push
+git push -u origin design
 ```
 
 # Pull the changes
