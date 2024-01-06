@@ -18,7 +18,7 @@ git add .
 git commit -m "your-name yyyy/mm/dd"
 ```
 
-# Push to this branch
+3. Push to this branch
 ```
 git push -u origin design
 ```
